@@ -1,5 +1,5 @@
 # Sorting-Visializer
-A visualizer for commonly used sorting algorithms.
+A visualizer for commonly used sorting algorithms
 
 
 # Check it out !
